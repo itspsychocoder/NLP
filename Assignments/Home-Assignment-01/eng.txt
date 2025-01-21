@@ -1,0 +1,4 @@
+Hello world! This is a sample text file. 
+This text file is used to test the word frequency counter.
+Hello again! Let's count how many times each word appears in this file.
+The word 'Hello' appears multiple times in this text file.
